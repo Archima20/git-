@@ -1,1 +1,1 @@
-I am adding some text. 
+I have a class now. 
